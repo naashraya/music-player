@@ -28,7 +28,7 @@ Setup and Installation
 
 Prerequisites
 
--C++ Compiler: Ensure you have a C++17 or newer compiler installed.
+- C++ Compiler: Ensure you have a C++17 or newer compiler installed.
 
 - SFML Library: Download and install the SFML library from SFML's official website.
 
